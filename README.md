@@ -10,7 +10,7 @@ The work on these modules is done by:
 
 Please contact them directly for support not obtained thru Odoo ticketing system after package purchase on [Odoo Marketplace](https://www.odoo.com/apps) or for specific terms & conditions of your support.
 
-You can also request support during Odoo assesment, training, implementation and lifecycle support if you're running your local instance of Odoo.
+You can also request support during Odoo assesment, training, implementation and production including upgrades if you're running your local instance of Odoo.
 
 ## Modules
 You can support the project by buying the modules on [Odoo Marketplace](https://www.odoo.com/apps) or directly from Contributors.
